@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Go_Notes</string>
+    <string name="note_title">Note title</string>
+    <string name="note_desc">Note description</string>
+    <string name="fake_date">10/19/2024</string>
+    <string name="search_notes">Search notes</string>
+    <string name="empty_text" />
+</resources>
